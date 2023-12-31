@@ -55,14 +55,13 @@ The "scores.csv" file contains detailed information about various schools, focus
 
 ## Project Structure
 
-- **Notebooks:** []
+- **Notebooks:** [https://github.com/jamiekawilkinson/jupyternotebooks]
   - Exploring Demographic Diversity and Academic Achievement.ipynb
   - nysat_cleaning.ipynb
 
 - **Data:** [Folder containing datasets]
   - `dataset1.csv`
   - `dataset2.xlsx`
-  - [Add more datasets if applicable]
 
 - **Results:** [Folder containing visualizations, reports, or any other output files]
   - `result_visualization.png`
