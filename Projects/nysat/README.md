@@ -55,10 +55,9 @@ The "scores.csv" file contains detailed information about various schools, focus
 
 ## Project Structure
 
-- **Notebooks:** [Folder containing Jupyter notebooks]
-  - `Exploratory_Data_Analysis.ipynb`
-  - `Model_Training.ipynb`
-  - [Add more notebooks if applicable]
+- **Notebooks:** [Exploring Demographic Diversity and Academic Achievement.ipynb]
+  - `Exploring Demographic Diversity and Academic Achievement.ipynb`
+  - 
 
 - **Data:** [Folder containing datasets]
   - `dataset1.csv`
