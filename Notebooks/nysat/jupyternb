@@ -1,6 +1,0 @@
-git init
-git add README.md  
-git add Exploring Demographic Diversity and Academic Achievement.ipynb
-git commit -m "notebook first commit" 
-git remote add origin https://github.com/{portfolio}/DiversityandSAT.git 
-git push -u origin master 
