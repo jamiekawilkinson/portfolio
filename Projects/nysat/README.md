@@ -2,6 +2,8 @@
 
 ## Overview
 
+**Research Question:** During the 2014-2015 school year, do high schools with more diverse student populations, as indicated by the racial breakdown, exhibit variations in average scores on SAT test sections compared to schools with less diverse student populations in New York City?
+
 The focus of this research is to investigate whether there are variations in the average scores on SAT test sections among high schools in New York City during the 2014-2015 school year based on the diversity of their student populations, as indicated by the racial breakdown. This research is important for several reasons:
 
 1. Educational Equity: Understanding the relationship between student diversity and SAT scores can shed light on potential disparities in educational opportunities and outcomes. It helps identify whether diverse schools face unique challenges or advantages in preparing students for standardized tests.
@@ -13,6 +15,8 @@ The focus of this research is to investigate whether there are variations in the
 4. College Readiness: SAT scores are often used as a predictor of college readiness. Understanding how diversity influences these scores can provide insights into the preparedness of students from different racial backgrounds for higher education.
 
 5. Social and Cultural Understanding: Beyond academics, the research can contribute to a deeper understanding of the social and cultural dynamics within schools. It may highlight the role of diversity in fostering a more inclusive and enriched learning environment.
+
+
 
 ## Table of Contents
 - [Data Sources](#data-sources)
@@ -59,17 +63,14 @@ The "scores.csv" file contains detailed information about various schools, focus
   - Exploring Demographic Diversity and Academic Achievement.ipynb
   - nysat_cleaning.ipynb
 
-- **Data:** [Folder containing datasets]
-  - `dataset1.csv`
-  - `dataset2.xlsx`
+- **Data:** [https://github.com/jamiekawilkinson/datasets]
+  - `scores.csv`
+  - `nyscores_clean.csv`
 
-- **Results:** [Folder containing visualizations, reports, or any other output files]
-  - `result_visualization.png`
-  - `model_evaluation_report.txt`
-  - [Add more result files if applicable]
-
-- **README.md:** This file providing an overview of the project.
+- **Visualizations:** 
+<div class='tableauPlaceholder' id='viz1703995711574' style='position: relative'><noscript><a href='#'><img alt='Geographical Distribution of SAT Math Scores for Black Students in NYC High Schools (2014-2015)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYSATScores&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NYSATScores&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYSATScores&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
 ## Key Results
 
-* Summarize the key findings and results obtained from the analysis or 
+* From these results, it appears that schools with higher diversity (as measured by the diversity index) tend to have higher average SAT scores in all three sections (Math, Reading, Writing) compared to schools with lower diversity.
+This analysis provides an interesting insight into the relationship between student population diversity and academic performance as measured by SAT scores. Keep in mind, however, that correlation does not imply causation, and many other factors could influence these results.¶
