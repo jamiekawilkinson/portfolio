@@ -55,9 +55,9 @@ The "scores.csv" file contains detailed information about various schools, focus
 
 ## Project Structure
 
-- **Notebooks:** [Exploring Demographic Diversity and Academic Achievement.ipynb]
-  - `Exploring Demographic Diversity and Academic Achievement.ipynb`
-  - 
+- **Notebooks:** []
+  - Exploring Demographic Diversity and Academic Achievement.ipynb
+  - nysat_cleaning.ipynb
 
 - **Data:** [Folder containing datasets]
   - `dataset1.csv`
