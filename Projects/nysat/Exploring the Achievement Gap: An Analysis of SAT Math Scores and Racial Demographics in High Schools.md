@@ -45,8 +45,7 @@ The "scores.csv" file contains detailed information about various schools, focus
 ## Project Structure
 
 - **Notebooks:** [https://github.com/jamiekawilkinson/jupyternotebooks]
-  - Exploring Demographic Diversity and Academic Achievement.ipynb
-  - nysat_cleaning.ipynb
+  - Exploring the Achievement Gap An Analysis of SAT Math Scores and Racial Demographics in High Schools.ipynb
 
 - **Data:** [https://github.com/jamiekawilkinson/datasets]
   - `scores.csv`
