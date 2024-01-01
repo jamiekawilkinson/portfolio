@@ -14,43 +14,44 @@ The primary goal of this project was to investigate how the racial composition o
 - [Contributing](#contributing)
 - [License](#license)
 
-## Data Sources
+### [scores.csv](https://www.kaggle.com/datasets/nycopendata/high-schools)
+The "scores.csv" file contains detailed information about various schools, focusing on their demographic makeup and academic performance in terms of SAT scores. Here's a brief summary of its key aspects:
 
-### [Dataset Name 1](Link-to-Dataset-1)
-*Description:* Briefly describe the first dataset, including its source, format, and any preprocessing steps.
+1. **Basic School Information**: 
+   - Includes data like 'School ID', 'School Name', 'Borough', 'Building Code', 'Street Address', 'City', 'State', and 'Zip Code'.
 
-### [Dataset Name 2](Link-to-Dataset-2)
-*Description:* Briefly describe the second dataset, including its source, format, and any preprocessing steps.
+2. **Geographical Data**: 
+   - Contains 'Latitude' and 'Longitude' for each school.
 
-*Add more datasets if applicable.*
+3. **School Operation Details**:
+   - Information like 'Phone Number', 'Start Time', and 'End Time' of the school day.
+
+4. **Student Demographics**:
+   - Demographic breakdown in percentages, such as 'Percent White', 'Percent Black', 'Percent Hispanic', and 'Percent Asian'.
+
+5. **Enrollment and Testing Data**:
+   - Includes 'Student Enrollment' numbers and 'Percent Tested', indicating the proportion of students who took the SAT.
+
+6. **SAT Performance**:
+   - Academic performance data, with average scores for 'SAT Math', 'SAT Reading', and 'SAT Writing'.
 
 ## Technologies Used
 
 * **Programming Languages:** Python
-* **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
-* **Data Visualization:** Tableau (optional)
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+* **Data Visualization:** Tableau
 * **Tools:** Jupyter Notebooks, Git
-* **Database:** [If applicable, mention the database used]
 
 ## Project Structure
 
-- **Notebooks:** [Folder containing Jupyter notebooks]
-  - `Exploratory_Data_Analysis.ipynb`
-  - `Model_Training.ipynb`
-  - [Add more notebooks if applicable]
+- **Notebooks:** [https://github.com/jamiekawilkinson/jupyternotebooks]
+  - Exploring Demographic Diversity and Academic Achievement.ipynb
+  - nysat_cleaning.ipynb
 
-- **Data:** [Folder containing datasets]
-  - `dataset1.csv`
-  - `dataset2.xlsx`
-  - [Add more datasets if applicable]
-
-- **Results:** [Folder containing visualizations, reports, or any other output files]
-  - `result_visualization.png`
-  - `model_evaluation_report.txt`
-  - [Add more result files if applicable]
-
-- **README.md:** This file providing an overview of the project.
+- **Data:** [https://github.com/jamiekawilkinson/datasets]
+  - `scores.csv`
+  - `nyscores_clean.csv`           
 
 ## Key Results
 
-* Summarize the key findings and results obtained from the analysis or 
+This analysis underscores the existence of an achievement gap in SAT Math scores along racial lines. The observed trends point towards systemic issues in education, where race and ethnicity correlate with academic outcomes in standardized testing. It's crucial to emphasize that correlation does not imply causation; these findings reflect a need for deeper investigation into the underlying causes, such as socioeconomic factors, access to educational resources, and systemic biases, to develop effective strategies for educational equity.¶
