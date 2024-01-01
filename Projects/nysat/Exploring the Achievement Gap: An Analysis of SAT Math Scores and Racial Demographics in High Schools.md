@@ -54,3 +54,5 @@ The "scores.csv" file contains detailed information about various schools, focus
 ## Key Results
 
 This analysis underscores the existence of an achievement gap in SAT Math scores along racial lines. The observed trends point towards systemic issues in education, where race and ethnicity correlate with academic outcomes in standardized testing. It's crucial to emphasize that correlation does not imply causation; these findings reflect a need for deeper investigation into the underlying causes, such as socioeconomic factors, access to educational resources, and systemic biases, to develop effective strategies for educational equity.¶
+
+https://public.tableau.com/views/ScoreScape/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
